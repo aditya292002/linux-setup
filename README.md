@@ -1,14 +1,14 @@
-Linux Customization 
+# Linux Customization 
 
-Install GNOME Tweak Tools ( Customize your Linux, look, and behavior ) 
+## Install GNOME Tweak Tools ( Customize your Linux, look, and behavior ) 
             https://www.youtube.com/watch?v=XVmsM5Ru6uo
 
 
-Customizing Terminal ( Customizing your .bashrc file )
+## Customizing Terminal ( Customizing your .bashrc file )
             https://www.youtube.com/watch?v=pYL0iKIyik4
 
 
-Making desired terminal command (basic knowledge of bash or python is enough)
+## Making desired terminal command (basic knowledge of bash or python is enough)
 Steps:
  1) Write the program you want to execute as a command.
  2) For bash https://www.youtube.com/watch?v=UNr1LOEg7OY
@@ -22,4 +22,6 @@ Steps:
     
   3) To run the command type the file name( name of the python program ) in the terminal 
 	
-
+	
+## My customized terminal 
+![aaaa](https://user-images.githubusercontent.com/68159582/188256260-90eba385-6e01-45e3-b8a3-5fba13686edc.png)
